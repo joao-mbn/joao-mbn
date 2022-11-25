@@ -5,7 +5,7 @@ I'm João, a Junior Fullstack Software Developer at [Radix](https://www.radixeng
 [![Linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosbatistanascimento)
 
 
-So far, my professional experience has been that of developing and/or maintaining software for chemical industries, such as chemicals manufacturing ⚗, oil 🏭 and water treatment 💧 and coating 🛡.
+So far, my professional experience has been that of developing and/or maintaining software for chemical industries, such as chemicals manufacturing ⚗, oil 🏭, water treatment 💧 and coating 🛡.
 
 I know a thing or two about process simulation and optimization algorithms with Python 🐍, as I did some research on the topic during my last year at the university and developed one myself, for separation of rare-earth elements, as part of my thesis.
 
