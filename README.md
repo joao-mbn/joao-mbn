@@ -1,6 +1,6 @@
 ### Hi there 🤙
 
-I'm João, a Junior Fullstack Software Developer at [Radix](https://www.radixeng.com.br/) and BSc of Chemical Engineering.
+I'm João, a Fullstack Software Developer at [Radix](https://www.radixeng.com.br/) and BSc of Chemical Engineering.
 
 [![Linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosbatistanascimento)
 
