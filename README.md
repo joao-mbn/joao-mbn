@@ -1,1 +1,1 @@
-Checkout my [website](https://joao-mbn.github.io/) to know more about me.
+Checkout my [website](https://joaonascimento.me/) to know more about me.
